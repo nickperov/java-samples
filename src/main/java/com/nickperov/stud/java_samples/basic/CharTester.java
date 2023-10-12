@@ -4,7 +4,7 @@ public class CharTester {
 	
 	public static void main(String[] args) {
 		
-		char[] charArray = {'A','B','C','1','2','3',']','}',',','-','_','@','\\','\u0012','\n','\r','û','~','¸','ú'};
+		char[] charArray = {'A','B','C','1','2','3',']','}',',','-','_','@','\\','\u0012','\n','\r','~'};
 		
 		
 		/*Character chLetter = new Character( 'A' );
