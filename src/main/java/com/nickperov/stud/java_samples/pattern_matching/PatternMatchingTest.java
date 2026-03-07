@@ -1,2 +1,2 @@
-package com.nickperov.stud.java_samples.pattern_matching;public class PatternMAtchingTest {
+package com.nickperov.stud.java_samples.pattern_matching;public class PatternMatchingTest {
 }
